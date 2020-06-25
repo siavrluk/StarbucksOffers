@@ -13,9 +13,9 @@ The goal of this project is to understand which are the users that are most resp
 
 ## Files Description <a name='files'></a>
 * data
- * profile.json: contains information about the user such as age, gender, and income
- * portfolio.json: contains information about the offers such as type, duration, reward, minimum required spend to complete the offer, channels
- * transcript.json: contains records about user's purchases and interactions with the offers
+  * profile.json: contains information about the user such as age, gender, and income
+  * portfolio.json: contains information about the offers such as type, duration, reward, minimum required spend to complete the offer, channels
+  * transcript.json: contains records about user's purchases and interactions with the offers
 * requirements.txt: 
 
 ## Results Summary <a name='results'></a>
