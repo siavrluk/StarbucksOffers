@@ -9,8 +9,7 @@ This repository contains the work done for the capstone project of [Udacity's Da
 
 
 ## Project Motivation <a name='motivation'></a>
-In January 2011 Starbucks released its mobile app through which customers receive custom offers of various types (BOGO, discounts, etc.). 
-The goal of this project is to understand which are the users that are most responsive to these offers. We were provided simulated data that mimics customer behavior on the Starbucks rewards mobile app which we used to build a predictive model.
+In January 2011 Starbucks released its mobile app through which customers receive custom offers of various types (BOGO, discounts, etc.). The goal of this project is to understand which are the users that are most responsive to these offers. We were provided simulated data that mimics customer behavior on the Starbucks rewards mobile app which we used to build a predictive model.
 
 ## Files Description <a name='files'></a>
 * data
