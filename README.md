@@ -1,6 +1,7 @@
 # Starbucks Offers
 
 This repository contains the work done for the capstone project of [Udacity's Data Science Nanodegree](https://classroom.udacity.com/nanodegrees/nd025/). 
+
 # Table of contents
 1. [Project Motivation](#motivation)
 2. [Files Description](#files)
@@ -16,7 +17,7 @@ The goal of this project is to understand which are the users that are most resp
   * profile.json: contains information about the user such as age, gender, and income
   * portfolio.json: contains information about the offers such as type, duration, reward, minimum required spend to complete the offer, channels
   * transcript.json: contains records about user's purchases and interactions with the offers
-* requirements.txt: 
+* requirements.txt: contains a list of all python libraries used in the project
 
 ## Results Summary <a name='results'></a>
 A summary of the results can be found in the following blogpost.
