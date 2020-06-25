@@ -19,6 +19,6 @@ In January 2011 Starbucks released its mobile app through which customers receiv
 * requirements.txt: contains a list of all python libraries used in the project
 
 ## Results Summary <a name='results'></a>
-A summary of the results can be found in the following blogpost.
+A summary of the results can be found in the following [blogpost](https://medium.com/@silvana_89581/would-you-let-us-get-you-a-free-coffee-b5fed9ff6038?sk=cbce3811b146ada07ecf47c12f3bcbc9).
 
  
